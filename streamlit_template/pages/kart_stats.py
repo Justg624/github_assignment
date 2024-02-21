@@ -6,7 +6,7 @@ st.sidebar.markdown("# Kart Configurations 🏎️")
 
 st.write("What Kart Configuration is Best?")
 
-dfKart = pd.read_csv('data/kart_stats.csv')
+dfKart = pd.read_csv('streamlit_template/data/kart_stats.csv')
 
 
 #st.dataframe(dfKart)
