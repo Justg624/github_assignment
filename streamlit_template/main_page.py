@@ -4,5 +4,5 @@ st.markdown("# Welcome to my Website!")
 st.sidebar.markdown("# Main Page")
 
 st.write("Click on a page to see racer stats or kart stats")
-link = '[To my Github Pages Site](http://github.com)'
+link = '[To my Github Pages Site](http://justg624.github.io/github_assignment/)'
 st.markdown(link, unsafe_allow_html=True)
